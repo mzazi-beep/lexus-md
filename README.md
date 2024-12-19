@@ -15,9 +15,11 @@
 </a>
 </p>
 </a>
-href="https://github.com/mzazi-beep/lexus-md/network/members"><img title="Fork" src="https://img.shields.io/github/forks/mzazi-beep/lexus-md?style=social"></a>
-
-
-<a href="https://github.com/mzazi-beep/lexus-md/watchers"><img title="Watching"<src="https://img.shields.io/github/watchers/mzazi-beem/lexus-md?label=Watching&style=eyes"></a>
+href="https://github.com/mzazi-beep/lexus-md/network/members"><img title="Fork" src="https://img.shields.io/github/forks/mzazi-beep/lexus-md?style=social">
+</a>
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{mzazi-beep}/count.svg" alt="LEXUS-MD:: Visitor's Count" /></p>
+</a>
+href="https://github.com/mzazi-beep/lexus-md/watchers"><img title="Watching"<src="https://img.shields.io/github/watchers/mzazi-beem/lexus-md?label=Watching&style=eyes">
+</a>
+</p>
+align="center"><img src="https://profile-counter.glitch.me/{mzazi-beep}/count.svg" alt="LEXUS-MD:: Visitor's Count" /></p>

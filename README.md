@@ -11,4 +11,4 @@
 </a>
 </p>
 <p align="left">
-<a href="https://github.com/mzazi-beep"><img title="Author" src="https://img.shields.io/badge/XPLOADER-BOT-skyblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/mzazi-beep"><img title="Author" src="https://img.shields.io/badge/LEXUS-MD-orange?style=for-the-badge&logo=facebook"></a>

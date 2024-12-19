@@ -19,7 +19,7 @@ href="https://github.com/mzazi-beep/lexus-md/network/members"><img title="Fork" 
 </a>
 </p>
 </a>
-href="https://github.com/mzazi-beep/lexus-md/watchers"><img title="Watching"<src="https://img.shields.io/github/watchers/mzazi-beem/lexus-md?label=Watching&style=eyes">
+href="https://github.com/mzazi-beep/lexus-md/watchers"><img title="Watching"<src="https://img.shields.io/github/watchers/mzazi-beem/lexus-md?label=Watching&style=social">
 </a>
 </p>
 align="center"><img src="https://profile-counter.glitch.me/{mzazi-beep}/count.svg" alt="LEXUS-MD:: Visitor's Count" /></p>

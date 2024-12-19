@@ -29,3 +29,11 @@ align="center"><img src="https://profile-counter.glitch.me/{mzazi-beep}/count.sv
 
 <p align="center">
 <a href="https://github.com/mzazi-beep/lexus-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mzazi-beem/lexus-md?color=lightgreen&style=flat-square"></a>
+
+
+𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐓𝐈𝐎𝐍
+
+first
+    <br>
+    <p align="center">
+<a href='https://github.com/mzazi-beem/Lexus-md/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=lightblue&color=darkblack'/></a>

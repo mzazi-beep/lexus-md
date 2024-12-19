@@ -23,3 +23,9 @@ href="https://github.com/mzazi-beep/lexus-md/watchers"><img title="Watching"<src
 </a>
 </p>
 align="center"><img src="https://profile-counter.glitch.me/{mzazi-beep}/count.svg" alt="LEXUS-MD:: Visitor's Count" /></p>
+
+
+<h3>LEXUS-MD STATS</h3>
+
+<p align="center">
+<a href="https://github.com/mzazi-beep/lexus-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mzazi-beem/lexus-md?color=lightgreen&style=flat-square"></a>

@@ -14,8 +14,6 @@
 <a href="https://github.com/mzazi-beep"><img title="Author" src="https://img.shields.io/badge/LEXUS-MD-green?style=for-the-badge&logo=whatsapp"></a>
 
 
-<p align="center">
-<a href="https://github.com/mzazi-beep/lexus-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mzazi-beep/lexus-md?&style=social"></a>
-
-
 <a href="https://github.com/ <a href="https://github.com/mzazi-beep/lexus-md/network/members"><img title="Fork" src="https://img.shields.io/github/forks/mzazi-beep/lexus-md?style=social"></a>
+
+

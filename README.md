@@ -59,5 +59,5 @@ href='https://github.com/mzazi-beem/Lexus-md/fork' target="_blank"><img alt='For
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/mzazi-beep/lexus-md&template=https://github.comzazi-beep/lexus-md.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/mzazi-beep/lexus-md&template=https://github.com/mzazi-beep/lexus-md.git)***
 

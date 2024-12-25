@@ -5,8 +5,7 @@
   <a href="https://github.com/Mzazi-beep/Lexus-md">
 
 
-<a
-href="https://github.com/mzazi-beep/lexus-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mzazi-beep/lexus-md?&style=social"></a>
+<a href="https://github.com/mzazi-beep/lexus-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mzazi-beep/lexus-md?&style=social"></a>
 
 
 </a>
@@ -35,9 +34,17 @@ href="https://github.com/mzazi-beep/lexus-md/stargazers/"><img title="Stars" src
 
 
 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐓𝐈𝐎𝐍
+𝑆𝑇𝐸𝑃 𝑂𝑁𝐸
+𝑭𝑶𝑹𝑲 𝑻𝑯𝑬 𝑹𝑬𝑷𝑶...
 
 first
     <br>
     <p align="center">
 <a
 href='https://github.com/mzazi-beem/Lexus-md/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=lightblue&color=darkblack'/></a>
+
+𝑆𝑇𝐸𝑃 𝑇𝑊𝑂
+🆂🅴🆂🆂🅸🅾🅽...
+    <br>
+    <p align="center">
+<a href='https://xploader-pair.onrender.com' target="_blank"><img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=golden&labelColor=brightblue&color=brightgreen'/></a>

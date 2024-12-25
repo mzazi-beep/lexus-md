@@ -1,0 +1,96 @@
+{
+  "name": "Lexus-md",
+  "version": "3.2.6",
+  "description": "Lexus-md, An advanced whatsapp bot",
+  "logo": "https://i.ibb.co/0tbxXc0/Xploader5.jpg",
+  "keywords": ["whatsapp", "bot", "md", "multi-device", "Xploader", "V3", "wabot"],
+  "repository": "https://github.com/mzazi-beep/lexus-md",
+  "stack": "container",
+   "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "Standard-2X"
+    }
+  },
+  "env": {
+    "OWNER_NUMBER": {
+      "description": "Enter your number here",
+      "required": true,
+      "value": "254741388986"
+    },
+    "OWNER_NAME": {
+      "description": "Enter your name here",
+      "required": true,
+      "value": "Mzazi"
+     },
+    "AUTO_STATUS_SEEN": {
+      "description": "Set true to enable and false to disable auto status view",
+      "required": false,
+      "value": "true"
+     },
+    "AUTO_STATUS_REACT": {
+      "description": "Set true to enable and false to disable auto status reaction",
+      "required": false,
+      "value": "true"
+     },
+    "STATUS_EMOJI": {
+      "description": "Set the emoji that you want to be reacted to status",
+      "required": false,
+      "value": "✅"
+    },
+    "PREFIX": {
+      "description": "Enter your desired prefix here",
+      "required": true,
+      "value": "."
+    },
+    "BOT_NAME": {
+      "description": "Enter Bot name here",
+      "required": false,
+      "value": "𝐋𝐞𝐱𝐮𝐬-𝐦𝐝"
+    },
+    "SESSION_ID": {
+      "description": "Enter Lexusd session id here; must start with LEXUS~",
+      "required": true,
+      "value": ""
+    },
+    "TIMEZONE": {
+      "description": "Enter your timezone here. Google or don't edit if you don't know!",
+      "required": false,
+      "value": "Africa/Nairobi"
+    },
+     "STICKER_PACK_NAME": {
+      "description": "Enter Sticker pack name here",
+      "required": false,
+      "value": "Mzazi"
+     },
+     "STICKER_AUTHOR_NAME": {
+      "description": "Enter sticker author name here",
+      "required": false,
+      "value": "Bot"
+     },
+     "PREMIUM_VIP": {
+      "description": "Enter numbers to be premium users [ Each Saperated By Comma ]",
+      "required": false,
+      "value": "254741388986,254100156216"
+     },
+     "AUTO_BLOCK": {
+      "description": "Enter a country code to be auto blocked",
+      "required": false,
+      "value": "263"
+     }
+    },
+    "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}

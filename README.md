@@ -52,3 +52,10 @@ href='https://github.com/mzazi-beem/Lexus-md/fork' target="_blank"><img alt='For
 <br>
 <p align="center">
 <a href='https://xploader-pair.onrender.com' target="_blank"><img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=golden&labelColor=brightblue&color=brightgreen'/></a>
+
+
+
+
+## `DEPLOYMENTS`
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://xploaderbots.vercel.app/deploy)  💯 safe

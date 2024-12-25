@@ -58,4 +58,4 @@ href='https://github.com/mzazi-beem/Lexus-md/fork' target="_blank"><img alt='For
 
 ## `DEPLOYMENTS`
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://xploaderbots.vercel.app/deploy)  💯 safe
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://Lexus-md.vercel.app/deploy)  💯 safe

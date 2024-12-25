@@ -5,13 +5,15 @@
   <a href="https://github.com/Mzazi-beep/Lexus-md">
 
 
-<a href="https://github.com/mzazi-beep/lexus-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mzazi-beep/lexus-md?&style=social"></a>
+<a
+href="https://github.com/mzazi-beep/lexus-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mzazi-beep/lexus-md?&style=social"></a>
 
 
 </a>
 </p>
 <p align="left">
-<a href="https://github.com/mzazi-beep"><img title="Author" src="https://img.shields.io/badge/LEXUS-MD-green?style=for-the-badge&logo=whatsapp">
+<a
+href="https://github.com/mzazi-beep"><img title="Author" src="https://img.shields.io/badge/LEXUS-MD-green?style=for-the-badge&logo=whatsapp">
 </a>
 </p>
 </a>
@@ -25,10 +27,14 @@ href="https://github.com/mzazi-beep/lexus-md/watchers"><img title="Watching"<src
 align="center"><img src="https://profile-counter.glitch.me/{mzazi-beep}/count.svg" alt="LEXUS-MD:: Visitor's Count" /></p>
 
 
-<h3>LEXUS-MD STATS</h3>
+<h3>
+LEXUS-MD STATS</h3>
 
 <p align="center">
-<a href="https://github.com/mzazi-beep/lexus-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mzazi-beem/lexus-md?color=lightgreen&style=flat-square"></a>
+<a>
+href="https://github.com/mzazi-beep/lexus-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mzazi-beem/lexus-md?color=lightgreen&style=flat-square"></a>
+
+
 
 
 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐓𝐈𝐎𝐍

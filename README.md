@@ -39,15 +39,14 @@ href="https://github.com/mzazi-beep/lexus-md/stargazers/"><img title="Stars" src
 𝑆𝑇𝐸𝑃 𝑂𝑁𝐸
 
 
-𝑭𝑶𝑹𝑲 𝑻𝑯𝑬 𝑹𝑬𝑷𝑶...
-
+## 🛠️ `LEXUS-MD INSTALATION`
+1. Fork and star this repo first
     <br>
     <p align="center">
 <a
 href='https://github.com/mzazi-beem/Lexus-md/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=lightblue&color=darkblack'/></a>
 
-𝑆𝑇𝐸𝑃 𝑇𝑊𝑂
-🆂🅴🆂🆂🅸🅾🅽...
+2. GET SESSION...
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -62,3 +61,16 @@ href='https://github.com/mzazi-beem/Lexus-md/fork' target="_blank"><img alt='For
 
  ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/mzazi-beep/lexus-md&template=https://github.com/mzazi-beep/lexus-md.git)***
 
+##
+- Star ⭐ this repository if you like LEXUS-MD BOT Bot.
+- If any problem, then [`Whatsapp Me Here`](https://wa.me/254741388986)
+
+##
+<h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
+</h2>
+
+- *`LEXUS-MD BOT` is not affiliated with `WhatsApp Inc`.*
+- *Misusing the bot may result in account banning.*
+- *Use at your own risk.*
+
+©LEXUX-MD

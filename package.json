@@ -13,7 +13,7 @@
   "author": "Mzazi",
   "license": "MIT",
   "dependencies": {
-        "@whiskeysockets/baileys": "https://github.com/mzazi-beep/Baileys/archive/refs/tags/v1.3.0.tar.gz",
+        "@whiskeysockets/baileys": "https://github.com/dark-xploit/Baileys/archive/refs/tags/v1.3.0.tar.gz",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
         "@hapi/boom": "^10.0.1",

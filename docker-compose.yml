@@ -1,0 +1,28 @@
+version: "4.0"
+services:
+  web:
+    build: .
+    container_name: LEXUS-MD
+    ports:
+      - "3000:3000"
+    restart: always
+    depends_on:
+      - redis
+    environment:
+      - NODE_ENV=production
+    working_dir: /app
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000"]
+      interval: 1m
+      timeout: 10s
+      retries: 3
+
+  redis:
+    image: redis
+    container_name: redis_db
+    restart: always
+    healthcheck:
+      test: ["CMD", "redis-cli", "PING"]
+      interval: 1m
+      timeout: 10s
+      retries: 3

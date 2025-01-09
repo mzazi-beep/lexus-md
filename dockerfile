@@ -6,15 +6,19 @@ RUN apt-get update && \
   imagemagick \
   webp && \
   apt-get upgrade -y && \
+  npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
+  
+RUN git clone https://github.com/mzazi-beep/lexus-md /root/lexus-md
+WORKDIR /root/lexus-md/
+
 
 COPY package.json .
-
-RUN npm install && npm install -g qrcode-terminal pm2
+RUN npm install pm2 -g
+RUN npm install --legacy-peer-deps
 
 COPY . .
 
 EXPOSE 5000
 
-
-CMD ["npm", "start"]
+CMD ["npm", "run" , "lexus"]

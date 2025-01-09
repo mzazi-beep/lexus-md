@@ -1,26 +1,20 @@
-FROM node:lts
+FROM node:lts-buster
 
-# Install dependencies
-RUN apt-get update && apt-get install -y --no-install-recommends ffmpeg imagemagick webp && apt-get clean
+RUN apt-get update && \
+  apt-get install -y \
+  ffmpeg \
+  imagemagick \
+  webp && \
+  apt-get upgrade -y && \
+  rm -rf /var/lib/apt/lists/*
 
-# Set working directory
-WORKDIR /app
+COPY package.json .
 
-# Copy package files
-COPY package*.json ./
+RUN npm install && npm install -g qrcode-terminal pm2
 
-# Install dependencies
-RUN npm install && npm cache clean --force
-RUN npm install -g pm2
-
-# Copy application code
 COPY . .
 
-# Expose port
-EXPOSE 3000
+EXPOSE 5000
 
-# Set environment
-ENV NODE_ENV production
 
-# Run command
-CMD ["npm", "run", "start"]
+CMD ["npm", "start"]
